@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Searchable Table with sorting and pagination
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
