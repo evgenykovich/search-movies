@@ -2,7 +2,11 @@ import { useState } from 'react'
 import { BsSortDownAlt, BsSortUp } from 'react-icons/bs'
 import { MovieDataProps } from '../MovieSearch'
 import { Pagination } from './Pagination'
-import { Container, MoviesTable, MoviesTableContainer } from './Table.styles'
+import {
+  Container,
+  MoviesTable,
+  MoviesTableContainer
+} from './Table.styles'
 
 type TableProps = {
   searchData: MovieDataProps
